@@ -1,0 +1,3 @@
+# ActionScript 3 Unexpected Parameter Type Error
+
+This repository demonstrates a common but often difficult-to-debug error in ActionScript 3: unexpected parameter type errors.  The error occurs when a function receives a parameter of an unexpected type, leading to runtime exceptions with sometimes unhelpful error messages. This example shows how such errors can occur and a practical approach to handling them more gracefully.
